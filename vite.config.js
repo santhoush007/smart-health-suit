@@ -11,5 +11,5 @@ export default defineConfig({
       external: ['fsevents']
     }
   },
-  base: '/An-Intelligent-Smart-Health-Suit-Using-Embedded-Biosensors-for-Real-Time-Vital-Analysis/'
+  base: '/An-Intelligent-Smart-Health-Suit-Using-Embedded-Biosensors-for-Real-Time-Vital-Analysis/',
 })

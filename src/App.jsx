@@ -27,6 +27,8 @@ import TestHub from './components/screens/TestHub.jsx';
 import { ref, set } from "firebase/database";
 import { database } from "./firebase";
 
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
 
 /* --- EMBEDDED FIRMWARE CODE (C++) --- */
 const ARDUINO_FIRMWARE_CODE = 
